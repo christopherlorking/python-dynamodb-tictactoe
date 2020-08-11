@@ -7,8 +7,10 @@ Simple CLI Tic Tac Toe game that optionaly saves game results to AWS DynamoDB vi
 
 
 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
+
 [Python AWS SDK Boto3 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
-[DynamoDB free teir](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&all-free-tier.q=dynamo&all-free-tier.q_operator=AND) (open link and scroll down...)
+
+[DynamoDB free tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&all-free-tier.q=dynamo&all-free-tier.q_operator=AND) (open link and scroll down...)
 ```sh
 As of August 2020, the free tier for DynamoDB is not restricted to a 12 month period:
 25 GB of storage
